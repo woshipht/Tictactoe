@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/choose3x3"
+        android:orderInCategory="1"
+        android:title="@string/choose3x3"/>
+
+    <item android:id="@+id/choose4x4"
+        android:orderInCategory="1"
+        android:title="@string/choose4x4" />
+
+    <item android:id="@+id/choose5x5"
+        android:orderInCategory="1"
+        android:title="@string/choose5x5" />
+
+</menu>

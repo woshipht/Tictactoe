@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="start">start</string>
+    <string name="wait_start">wait_start</string>
+    <string name="turn_blue">turn_blue</string>
+    <string name="turn_red">turn_red</string>
+    <string name="choose3x3">choose3x3</string>
+    <string name="choose4x4">choose4x4</string>
+    <string name="choose5x5">choose5x5</string>
+    <string name="win_blue">win_blue</string>
+    <string name="win_red">win_red</string>
+    <string name="draw_game">draw_game</string>
+</resources>
