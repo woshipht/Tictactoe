@@ -154,6 +154,7 @@ public class MainActivity extends AppCompatActivity {
                 case STATE_DRAW_GAME : setTitle(R.string.draw_game); break;
             }
         }
+
         if(PtrType == TYPE_3X3){
             mGameView.setPtrType(TYPE_3X3);
         }
